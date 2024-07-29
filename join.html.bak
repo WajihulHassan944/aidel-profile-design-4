@@ -4,13 +4,16 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>The Luxury Copywriter | Luxury Brand Copywriting</title>
-    <link rel="icon" type="image/png" href="//static.showit.co/200/bixiMPFISY-lhbUL8Hw0SQ/120296/favicon.png" />
+    <title>UNC NPS</title>
     <link rel="preconnect" href="https://static.showit.co" />
     <meta name="description" content="Maisie Prior is a UK-based Freelance Copywriter specialising in Luxury Brand Copywriting for high-end hotels, jewellery and beauty businesses." />
     <link rel="canonical" href="https://theluxurycopywriter.com" />
     <meta property="og:image" content="https://static.showit.co/1200/vh_hLpctQWOFHMtB_1kXdw/120296/share.jpg" />
-
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<link rel="manifest" href="site.webmanifest">
+ 
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -9258,30 +9261,45 @@
         <div id="menu" data-bid="menu" class="sb sib-menu sb-lm sb-ps">
             <div class="ss-s ss-bg">
                 <div class="sc" style="width:1200px">
-                    <a href="#/" target="_self" class="sie-menu_0 se" data-sid="menu_0">
+				    <a href="#/" target="_self" class="sie-menu_5 se" data-sid="menu_5">
+					<img src="logo.png">
+                    </a>
+                
+				
+                    <a href="index.html" target="_self" class="sie-menu_0 se" data-sid="menu_0">
                         <div class="se-t sie-menu_0-text st-m-subheading st-d-heading">Home</div>
                     </a>
-                    <a href="/portfolio" target="_self" class="sie-menu_1 se" data-sid="menu_1">
+                    <a href="team.html" target="_self" class="sie-menu_1 se" data-sid="menu_1">
                         <div class="se-t sie-menu_1-text st-m-subheading st-d-heading">Our team</div>
                     </a>
-                    <a href="/testimonials" target="_self" class="sie-menu_2 se" data-sid="menu_2">
+                    <a href="internal.html" target="_self" class="sie-menu_2 se" data-sid="menu_2">
                         <div class="se-t sie-menu_2-text st-m-subheading st-d-heading">Internal</div>
                     </a>
-                    <a href="/about" target="_self" class="sie-menu_3 se" data-sid="menu_3" >
+                    <a href="join.html" target="_self" class="sie-menu_3 se" data-sid="menu_3" >
                         <div class="se-t sie-menu_3-text st-m-subheading st-d-heading">Join</div>
                     </a>
 					
-                    <a href="/about" target="_self" class="sie-menu_4 se" data-sid="menu_4">
+                    <a href="#contact-1" target="_self" class="sie-menu_4 se" data-sid="menu_4">
                         <div class="se-t sie-menu_4-text st-m-subheading st-d-heading">Contact</div>
                     </a>
 			<style>
 			.d .sie-menu_0{
-			left: 288px !important;
+			left: 293px !important;
 			
 			}
 			.d .sie-menu_3{
-			left: 410px;
-			}</style>		
+			left: 415px;
+			}
+			.d .sie-menu_5{
+			left: 10px;
+			top:6px;
+			}
+			.d .sie-menu_5 img{
+				width:130px;
+				
+			}
+			
+			</style>		
                 </div>
             </div>
         </div>
@@ -9302,720 +9320,22 @@ height:100%;"						/></div>
 						line-height:1.5;
 						font-size:50px;
 						margin-bottom:10px;
-						">EMPOWERING CHANGE, <BR> LEADING WITH PURPOSE</h1>
+						text-align:center;
+						">HOW WILL YOU<br> MAKE AN IMPACT</h1>
 						
 						<p style="color:#fff;
 						font-family: 'Nunito';
 						line-height:1.4;
-						font-size:23px;
-						">KENAN-FLAGLER'S UNDERGRADUATE NONPROFIT <br>& PUBLIC SECTOR CLUB</p>
+						font-size:21px;
+						">APPLICATIONS WILL BE AVAILABLE THIS FALL FOR SPRING 2024</p>
 						</div>
 						</div>
               
 			  </div>
             </div>
         </div>
-        <div id="about-2" data-bid="about-2" class="sb sib-about-2">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px">
-                    <!--<div class="str-id" data-tran="about-2_0">
-                        <div data-sid="about-2_0" class="sie-about-2_0 se">
-                            <h1 class="se-t sie-about-2_0-text st-m-title st-d-title se-rc">For Compelling Content and Memorable Brand Stories<br></h1>
-                        </div>
-                    </div>
-                    <div class="str-id" data-tran="about-2_1">
-                        <div data-sid="about-2_1" class="sie-about-2_1 se">
-                            <h2 class="se-t sie-about-2_1-text st-m-heading st-d-heading se-rc">A BOUTIQUE STUDIO</h2>
-                        </div>
-                    </div>
-					-->
-                    <div class="str-id" data-tran="about-2_2">
-                        <div data-sid="about-2_2" class="sie-about-2_2 se">
-                            <p style="
-							color: rgba(51, 51, 51, 1);
-    line-height: 1.9;
-    font-size: 16px;
-    text-align: center;
-    font-family: 'Nunito';
-    font-weight: 400;
-    font-style: normal;
-	padding:40px 80px;
-	background:#fff;
-	width:700px;
-	margin-top:-120px;
-	margin-left:-45%;
-							">
-							The Nonprofit and Public Sector Club at the University of North Carolina’s Kenan-Flagler Business School is a student-led organization dedicated to providing immersive experiences in the nonprofit and public sectors. The club exists to empower UNC students with opportunities to develop skills in community engagement, professional development, and strategic planning. Our initiatives aim to foster meaningful connections and impactful projects, expanding the opportunities available to our members.
-							
-							</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div id="press" data-bid="press" class="sb sib-press sb-aav-m sb-aav-d">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px"></div>
-            </div>
-           
-		   
-        </div>
-        <div id="mobile-press" data-bid="mobile-press" class="sb sib-mobile-press sb-aav-m sb-aav-d">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px"></div>
-            </div>
-            
-			
-        </div>
-		<style>
-		.d .sie-featured-project_1-text{
-		overflow:visible;
-		}</style>
-        <div id="featured-project" data-bid="featured-project" class="sb sib-featured-project">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px">
-                    <div class="str-id" data-tran="featured-project_0">
-                        <div data-sid="featured-project_0" class="sie-featured-project_0 se">
-                            <div style="width:100%;height:100%; display:flex; justify-content:center; align-items:center;"  class="se-img se-gr slzy">
-							
-							<img src="people.jpg" style="width:90%; object-fit:cover; max-height:70%;">
-							</div>
-							
-							</div>
-                    </div>
-                    <div data-sid="featured-project_1" class="sie-featured-project_1 se" style="margin-top:-30px;">
-                        <p class="se-t sie-featured-project_1-text st-m-paragraph st-d-paragraph ">The Nonprofit and Public Sector Club offers students unparalleled exposure to the nonprofit and public sectors. Through diverse programs and events, members gain invaluable experience, professional development, and community engagement opportunities.
-                            
-							</p>
-                    </div>
-                    <div data-sid="featured-project_2" class="sie-featured-project_2 se" style="margin-top:-30px;">
-                        <h2 class="se-t sie-featured-project_2-text st-m-title st-d-title se-rc">Unparalleled Exposure to Capital</h2>
-                    </div>
-                    
-                </div>
-            </div>
-        </div>
-		
-		<div id="featured-project" data-bid="featured-project" class="sb sib-featured-project" style="margin-top:-250px;">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px">
-                    <div class="str-id" data-tran="featured-project_0">
-                        <div data-sid="featured-project_0" class="sie-featured-project_0 se">
-                            <div style="width:100%;height:100%; display:flex; justify-content:center; align-items:center;"  class="se-img se-gr slzy">
-							
-							<img src="city-skyline.jpg" style="width:90%; object-fit:cover; max-height:90%;">
-							</div>
-							
-							</div>
-                    </div>
-                    <div data-sid="featured-project_1" class="sie-featured-project_1 se">
-                        <p class="se-t sie-featured-project_1-text st-m-paragraph st-d-paragraph se-rc">Our club embraces a collaborative leadership model where every member's voice is valued. By making decisions together, we break away from traditional hierarchies, ensuring an inclusive and enriching experience for all members.
-                            <br><br></p>
-                    </div>
-                    <div data-sid="featured-project_2" class="sie-featured-project_2 se">
-                        <h2 class="se-t sie-featured-project_2-text st-m-title st-d-title se-rc">Flat Management Structure</h2>
-                    </div>
-                    
-                </div>
-            </div>
-        </div>
-		
-		
-		<div id="featured-project" data-bid="featured-project" class="sb sib-featured-project" style="margin-top:-250px;">
-            <div class="ss-s ss-bg">
-                <div class="sc" style="width:1200px">
-                    <div class="str-id" data-tran="featured-project_0">
-                        <div data-sid="featured-project_0" class="sie-featured-project_0 se">
-                            <div style="width:100%;height:100%; display:flex; justify-content:center; align-items:center;"  class="se-img se-gr slzy">
-							
-							<img src="watch.jpeg" style="width:90%; object-fit:cover; max-height:90%;">
-							</div>
-							
-							</div>
-                    </div>
-                    <div data-sid="featured-project_1" class="sie-featured-project_1 se">
-                        <p class="se-t sie-featured-project_1-text st-m-paragraph st-d-paragraph se-rc" style="margin-top:-30px;">Every week, our members provide updates on their respective areas. By consistently tracking developments in the nonprofit and public sectors, we are able to design well-informed strategies and initiatives.
-                            <br><br></p>
-                    </div>
-                    <div data-sid="featured-project_2" class="sie-featured-project_2 se">
-                        <h2 class="se-t sie-featured-project_2-text st-m-title st-d-title se-rc">Weekly Updates</h2>
-                    </div>
-                    
-                </div>
-            </div>
-        </div>
-		
-		
-		
-    <div id="freebie" data-bid="freebie" class="sb sib-freebie">
-        <div class="ss-s ss-bg">
-            <div class="sc" style="width:1200px">
-                <div data-sid="freebie_0" class="sie-freebie_0 se">
-                    <p class="se-t sie-freebie_0-text st-m-paragraph st-d-paragraph se-rc" style="overflow:visible; margin-top:-65px;">
-					Kenan-Flagler Business School <br> McColl Building <br>
-Capital Markets Lab <br>
-Mondays @ 8:15 PM
-					</p>
-                </div>
-                <div data-sid="freebie_1" class="sie-freebie_1 se">
-                    <h2 class="se-t sie-freebie_1-text st-m-title st-d-title se-rc" style="margin-top:-25px;">Meeting Times</h2>
-                </div>
-                <a href="/freebie" target="_self" class="sie-freebie_2 se" data-sid="freebie_2" style="margin-top:-25px;">
-                    <div class="se-simple"></div>
-                </a>
-                <a href="/freebie" target="_self" class="sie-freebie_3 se" data-sid="freebie_3" >
-                    <nav class="se-t sie-freebie_3-text st-m-subheading st-d-subheading" style="margin-top:-25px;">Contact</nav>
-                </a>
-                
-				
-                <div data-sid="freebie_5" class="sie-freebie_5 se">
-                    <div style="width:100%;height:100%; display:flex; justify-content:center; align-items:center;"  class="se-img se-gr slzy"> <img src="meeting.jpg" style="width:100%;"></div>
-					</div>
-            </div>
-        </div>
-        
-		
-    </div>
-	
-	<style>
-	        .sib-contact-1 {
-            z-index: 2;
-        }
-
-        .m .sib-contact-1 {
-            height: 551px;
-        }
-
-        .d .sib-contact-1 {
-            height: 607px;
-        }
-
-        .m .sib-contact-1 .ss-bg {
-            background-color: rgba(229, 223, 217, 1);
-        }
-
-        .d .sib-contact-1 .ss-bg {
-            background-color: rgba(255, 255, 255, 1);
-        }
-
-        .d .sie-contact-1_0 {
-            left: 605px;
-            top: 98px;
-            width: 489px;
-            height: 610px;
-        }
-
-        .m .sie-contact-1_0 {
-            left: 30px;
-            top: 35px;
-            width: 260px;
-            height: 474px;
-        }
-
-        .d .sie-contact-1_0 .se-simple:hover {}
-
-        .m .sie-contact-1_0 .se-simple:hover {}
-
-        .d .sie-contact-1_0 .se-simple {
-            background-color: rgba(255, 255, 255, 1);
-        }
-
-        .m .sie-contact-1_0 .se-simple {
-            background-color: rgba(255, 255, 255, 1);
-        }
-
-        .d .sie-contact-1_1 {
-            left: 678px;
-            top: 439px;
-            width: 349px;
-            height: 121px;
-        }
-
-        .m .sie-contact-1_1 {
-            left: 79px;
-            top: 334px;
-            width: 184px;
-            height: 80px;
-        }
-
-        .d .sie-contact-1_1-text {
-            color: rgba(51, 51, 51, 1);
-            line-height: 1.6;
-            font-size: 14px;
-            text-align: left;
-            font-family: 'Nunito';
-            font-weight: 400;
-            font-style: normal;
-            overflow: hidden;
-        }
-
-        .m .sie-contact-1_1-text {
-            color: rgba(51, 51, 51, 1);
-            line-height: 1.6;
-            font-size: 13px;
-            text-align: left;
-            font-family: 'Nunito';
-            font-weight: 400;
-            font-style: normal;
-            overflow: hidden;
-        }
-
-        .d .sie-contact-1_2 {
-            left: 668px;
-            top: 322px;
-            width: 347px;
-            height: 22px;
-        }
-
-        .m .sie-contact-1_2 {
-            left: 69px;
-            top: 268px;
-            width: 181px;
-            height: 19px;
-        }
-
-        .d .sie-contact-1_2-text {
-            color: rgba(51, 51, 51, 1);
-            text-transform: uppercase;
-            line-height: 1.4;
-            letter-spacing: 0.2em;
-            font-size: 10px;
-            text-align: left;
-            font-family: 'Poppins';
-            font-weight: 500;
-            font-style: normal;
-            overflow: hidden;
-        }
-
-        .m .sie-contact-1_2-text {
-            color: rgba(51, 51, 51, 1);
-            text-transform: uppercase;
-            line-height: 1.8;
-            letter-spacing: 0.2em;
-            font-size: 10px;
-            text-align: left;
-            font-family: 'Poppins';
-            font-weight: 500;
-            font-style: normal;
-            overflow: hidden;
-        }
-
-        .d .sie-contact-1_3 {
-            left: 668px;
-            top: 376px;
-            width: 350px;
-            height: 23px;
-        }
-
-        .m .sie-contact-1_3 {
-            left: 69px;
-            top: 216px;
-            width: 181px;
-            height: 19px;
-        }
-
-        .d .sie-contact-1_3-text {
-            color: rgba(51, 51, 51, 1);
-            text-transform: uppercase;
-            line-height: 1.4;
-            letter-spacing: 0.2em;
-            font-size: 10px;
-            text-align: left;
-            font-family: 'Poppins';
-            font-weight: 500;
-            font-style: normal;
-            overflow: hidden;
-        }
-
-        .m .sie-contact-1_3-text {
-            color: rgba(51, 51, 51, 1);
-            text-transform: uppercase;
-            line-height: 1.8;
-            letter-spacing: 0.2em;
-            font-size: 10px;
-            text-align: left;
-            font-family: 'Poppins';
-            font-weight: 500;
-            font-style: normal;
-            overflow: hidden;
-        }
-
-        .d .sie-contact-1_4 {
-            left: 668px;
-            top: 266px;
-            width: 344px;
-            height: 22px;
-        }
-
-        .m .sie-contact-1_4 {
-            left: 69px;
-            top: 162px;
-            width: 181px;
-            height: 19px;
-        }
-
-        .d .sie-contact-1_4-text {
-            color: rgba(51, 51, 51, 1);
-            text-transform: uppercase;
-            line-height: 1.4;
-            letter-spacing: 0.2em;
-            font-size: 10px;
-            text-align: left;
-            font-family: 'Poppins';
-            font-weight: 500;
-            font-style: normal;
-            overflow: hidden;
-        }
-
-        .m .sie-contact-1_4-text {
-            color: rgba(51, 51, 51, 1);
-            text-transform: uppercase;
-            line-height: 1.8;
-            letter-spacing: 0.2em;
-            font-size: 10px;
-            text-align: left;
-            font-family: 'Poppins';
-            font-weight: 500;
-            font-style: normal;
-            overflow: hidden;
-        }
-
-        .d .sie-contact-1_5 {
-            left: 942px;
-            top: 592px;
-            width: 84px;
-            height: 48px;
-        }
-
-        .m .sie-contact-1_5 {
-            left: 172px;
-            top: 443px;
-            width: 68px;
-            height: 36px;
-        }
-
-        .d .sie-contact-1_5-text {
-            color: rgba(51, 51, 51, 1);
-            text-transform: uppercase;
-            line-height: 1.8;
-            letter-spacing: 0.2em;
-            font-size: 13px;
-            text-align: right;
-            font-family: 'Poppins';
-            font-weight: 500;
-            font-style: normal;
-        }
-
-        .m .sie-contact-1_5-text {
-            color: rgba(51, 51, 51, 1);
-            text-transform: uppercase;
-            line-height: 1.6;
-            letter-spacing: 0.2em;
-            font-size: 12px;
-            text-align: right;
-            font-family: 'Poppins';
-            font-weight: 500;
-            font-style: normal;
-        }
-
-        .d .sie-contact-1_6 {
-            left: 702px;
-            top: 155px;
-            width: 296px;
-            height: 45px;
-        }
-
-        .m .sie-contact-1_6 {
-            left: 75px;
-            top: 74px;
-            width: 169px;
-            height: 30px;
-        }
-
-        .d .sie-contact-1_6-text {
-            color: rgba(51, 51, 51, 1);
-            line-height: 1.2;
-            font-size: 44px;
-            text-align: center;
-            font-family: 'Crimson Text';
-            font-weight: 400;
-            font-style: normal;
-        }
-
-        .m .sie-contact-1_6-text {
-            color: rgba(51, 51, 51, 1);
-            line-height: 1.2;
-            font-size: 34px;
-            text-align: center;
-            font-family: 'Crimson Text';
-            font-weight: 400;
-            font-style: normal;
-        }
-
-        .d .sie-contact-1_7 {
-            left: 668px;
-            top: 301px;
-            width: 350px;
-            height: 1px;
-        }
-
-        .m .sie-contact-1_7 {
-            left: 66px;
-            top: 198px;
-            width: 190px;
-            height: 1px;
-        }
-
-        .d .sie-contact-1_7 .se-simple:hover {}
-
-        .m .sie-contact-1_7 .se-simple:hover {}
-
-        .d .sie-contact-1_7 .se-simple {
-            background-color: rgba(51, 51, 51, 0.25);
-        }
-
-        .m .sie-contact-1_7 .se-simple {
-            background-color: rgba(51, 51, 51, 0.25);
-        }
-
-        .d .sie-contact-1_8 {
-            left: 668px;
-            top: 246px;
-            width: 350px;
-            height: 1px;
-        }
-
-        .m .sie-contact-1_8 {
-            left: 66px;
-            top: 142px;
-            width: 190px;
-            height: 1px;
-        }
-
-        .d .sie-contact-1_8 .se-simple:hover {}
-
-        .m .sie-contact-1_8 .se-simple:hover {}
-
-        .d .sie-contact-1_8 .se-simple {
-            background-color: rgba(51, 51, 51, 0.25);
-        }
-
-        .m .sie-contact-1_8 .se-simple {
-            background-color: rgba(51, 51, 51, 0.25);
-        }
-
-        .d .sie-contact-1_9 {
-            left: 668px;
-            top: 411px;
-            width: 350px;
-            height: 1px;
-        }
-
-        .m .sie-contact-1_9 {
-            left: 66px;
-            top: 250px;
-            width: 190px;
-            height: 1px;
-        }
-
-        .d .sie-contact-1_9 .se-simple:hover {}
-
-        .m .sie-contact-1_9 .se-simple:hover {}
-
-        .d .sie-contact-1_9 .se-simple {
-            background-color: rgba(51, 51, 51, 0.25);
-        }
-
-        .m .sie-contact-1_9 .se-simple {
-            background-color: rgba(51, 51, 51, 0.25);
-        }
-
-        .d .sie-contact-1_10 {
-            left: 668px;
-            top: 356px;
-            width: 350px;
-            height: 1px;
-        }
-
-        .m .sie-contact-1_10 {
-            left: 66px;
-            top: 304px;
-            width: 190px;
-            height: 1px;
-        }
-
-        .d .sie-contact-1_10 .se-simple:hover {}
-
-        .m .sie-contact-1_10 .se-simple:hover {}
-
-        .d .sie-contact-1_10 .se-simple {
-            background-color: rgba(51, 51, 51, 0.25);
-        }
-
-        .m .sie-contact-1_10 .se-simple {
-            background-color: rgba(51, 51, 51, 0.25);
-        }
-
-        .d .sie-contact-1_11 {
-            left: 675px;
-            top: 571px;
-            width: 350px;
-            height: 1px;
-        }
-
-        .m .sie-contact-1_11 {
-            left: 66px;
-            top: 417px;
-            width: 190px;
-            height: 1px;
-        }
-
-        .d .sie-contact-1_11 .se-simple:hover {}
-
-        .m .sie-contact-1_11 .se-simple:hover {}
-
-        .d .sie-contact-1_11 .se-simple {
-            background-color: rgba(51, 51, 51, 0.25);
-        }
-
-        .m .sie-contact-1_11 .se-simple {
-            background-color: rgba(51, 51, 51, 0.25);
-        }
-
-        .d .sie-contact-1_12 {
-            left: 1055px;
-            top: 583px;
-            width: 63px;
-            height: 63px;
-        }
-
-        .m .sie-contact-1_12 {
-            left: 254px;
-            top: 438px;
-            width: 50px;
-            height: 50px;
-        }
-
-        .d .sie-contact-1_12 svg {
-            fill: rgba(51, 51, 51, 0.5);
-        }
-
-        .m .sie-contact-1_12 svg {
-            fill: rgba(51, 51, 51, 0.5);
-        }
-
-        .m .sib-contact-1 .sis-contact-1_view-1 {
-            background-color: rgba(0, 0, 0, 0);
-        }
-
-        .d .sib-contact-1 .sis-contact-1_view-1 {
-            background-color: rgba(0, 0, 0, 0);
-        }
-
-        .m .sib-contact-1 .sis-contact-1_view-2 {
-            background-color: rgba(0, 0, 0, 0);
-        }
-
-        .d .sib-contact-1 .sis-contact-1_view-2 {
-            background-color: rgba(0, 0, 0, 0);
-        }
-
-        .d .sie-contact-1_view-2_0 {
-            left: 668px;
-            top: 429px;
-            width: 349px;
-            height: 121px;
-        }
-
-        .m .sie-contact-1_view-2_0 {
-            left: 69px;
-            top: 324px;
-            width: 184px;
-            height: 80px;
-        }
-
-        .d .sie-contact-1_view-2_0-text {
-            color: rgba(51, 51, 51, 1);
-            line-height: 1.6;
-            font-size: 14px;
-            text-align: left;
-            font-family: 'Nunito';
-            font-weight: 400;
-            font-style: normal;
-            overflow: hidden;
-        }
-
-        .m .sie-contact-1_view-2_0-text {
-            color: rgba(51, 51, 51, 1);
-            line-height: 1.6;
-            font-size: 13px;
-            text-align: left;
-            font-family: 'Nunito';
-            font-weight: 400;
-            font-style: normal;
-            overflow: hidden;
-        }
-.sib-contact-1 .ss-bg{
-background-image:url('https://static.showit.co/1600/mp2GBh2QTtW8WTI5OcHZ-g/120296/pexels-diana-akhmetyanova-4721999.jpg');
-}
-</style>
-	
-	
-        <div id="contact-1" data-bid="contact-1" class="sb sib-contact-1" style="margin-bottom:100px; ">
-            <div class="ss-s ss-bg" >
-                <div class="sb-m" ></div>
-                <div class="sc" style="width:1200px" >
-                    <div data-sid="contact-1_0" class="sie-contact-1_0 se"  >
-                        <div class="se-simple" ></div>
-                    </div>
-                    <div data-sid="contact-1_1" class="sie-contact-1_1 se"><textarea style="text-shadow:inherit" class="se-t sie-contact-1_1-text st-m-paragraph st-d-paragraph se-tf" tabindex="1113" data-validate="0|0|0|Message|" placeholder=""></textarea></div>
-                    <div data-sid="contact-1_2" class="sie-contact-1_2 se"><textarea style="text-shadow:inherit" class="se-t sie-contact-1_2-text st-m-subheading st-d-subheading se-tf" tabindex="1112" data-validate="0|0|1|Email|Email Address" placeholder="Email Address"></textarea></div>
-                    <div data-sid="contact-1_3"
-                        class="sie-contact-1_3 se"><textarea style="text-shadow:inherit" class="se-t sie-contact-1_3-text st-m-subheading st-d-subheading se-tf" tabindex="1111" data-validate="1|1|0|Subject|Subject" placeholder="Subject"></textarea></div>
-                    <div data-sid="contact-1_4"
-                        class="sie-contact-1_4 se"><textarea style="text-shadow:inherit" class="se-t sie-contact-1_4-text st-m-subheading st-d-subheading se-tf" tabindex="1110" data-validate="1|0|0|Name|First and Last Name" placeholder="First and Last Name"></textarea></div>
-                    <a href="javascript:void(0)"
-                        target="_self" class="sie-contact-1_5 se" data-sid="contact-1_5" data-scrollto="#contact-1" data-state="contact-1|next|1|0" data-form-submit="{&quot;p&quot;:&quot;&quot;,&quot;b&quot;:&quot;contact-1&quot;,&quot;s&quot;:&quot;contact-1|next|1|0&quot;}"
-                        tabindex="1109">
-                        <h2 class="se-t sie-contact-1_5-text st-m-heading st-d-heading">submit form</h2>
-                    </a>
-                    <div data-sid="contact-1_6" class="sie-contact-1_6 se">
-                        <h1 class="se-t sie-contact-1_6-text st-m-title st-d-title se-rc">Say Hello</h1>
-                    </div>
-                    <div data-sid="contact-1_7" class="sie-contact-1_7 se">
-                        <div class="se-simple"></div>
-                    </div>
-                    <div data-sid="contact-1_8" class="sie-contact-1_8 se">
-                        <div class="se-simple"></div>
-                    </div>
-                    <div data-sid="contact-1_9" class="sie-contact-1_9 se">
-                        <div class="se-simple"></div>
-                    </div>
-                    <div data-sid="contact-1_10" class="sie-contact-1_10 se">
-                        <div class="se-simple"></div>
-                    </div>
-                    <div data-sid="contact-1_11" class="sie-contact-1_11 se">
-                        <div class="se-simple"></div>
-                    </div>
-                    <a href="javascript:void(0)" target="_self" class="sie-contact-1_12 se" data-sid="contact-1_12" data-scrollto="#contact-1" data-state="contact-1|1|0|0" data-form-submit="{&quot;p&quot;:&quot;&quot;,&quot;b&quot;:&quot;contact-1&quot;,&quot;s&quot;:&quot;contact-1|1|0|0&quot;}"
-                        tabindex="1102">
-                        <div class="se-icon"><svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50.25 50.25"><defs></defs><path d="M25.13 48.78a23.66 23.66 0 1123.65-23.66 23.68 23.68 0 01-23.65 23.66zm0-46.31a22.66 22.66 0 1022.65 22.65A22.68 22.68 0 0025.13 2.47z"></path><path d="M28.48 28.34l-2.85 3.07V16.83h-1v14.59l-2.86-3.08-.73.68 4.08 4.4 4.09-4.4-.73-.68z"></path></svg></div>
-                    </a>
-                </div>
-            </div>
-            <div id="contact-1_view-1" class="ss sis-contact-1_view-1 sactive">
-                <div class="sc"></div>
-            </div>
-            <div id="contact-1_view-2" class="ss sis-contact-1_view-2">
-                <div class="sc" >
-                    <div data-sid="contact-1_view-2_0" class="sie-contact-1_view-2_0 se"><textarea style="text-shadow:inherit" class="se-t sie-contact-1_view-2_0-text st-m-paragraph st-d-paragraph se-tf" tabindex="1001" data-validate="0|0|0|Message|Thank you!" placeholder="Thank you!"></textarea></div>
-                </div>
-            </div>
-        </div>
-	
-	
-	
-	
+     
+	 
     <div id="footer" data-bid="footer" class="sb sib-footer">
         <div class="ss-s ss-bg">
             <div class="sc" style="width:1200px">
